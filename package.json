@@ -12,10 +12,11 @@
     "react-router",
     "active"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "react": "^0.13.0",
+    "react-router": "^1.0.0-rc3"
+  },
   "peerDependencies": {
-    "react": ">=0.13.0",
-    "react-router": ">=0.13.0"
   },
   "devDependencies": {
     "browserify": "^9.0.6",
